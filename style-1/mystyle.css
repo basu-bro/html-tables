@@ -1,0 +1,29 @@
+
+body { 
+
+color: white;
+background: black;
+
+
+}
+
+
+table,th,td {
+
+border: 1px solid black;
+border-collapse: collapse;
+padding: 5px;
+margin: 10px;
+text-align: center;
+
+}
+
+ th {
+background: #54b3d4;
+
+}
+
+td {
+background: #6f6f6f;
+
+}
